@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1189868550 source:c:\users\aguskkhaer\documents\2.dokumen_kuliah\tugas kuliah\komputer grafik\glut_projects\tugas_uts\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1684319939 source:c:\users\aguskkhaer\documents\2.dokumen_kuliah\tugas kuliah\komputer grafik\glut_projects\tugas_uts\sapi.cpp
+	<windows.h>
+	<gl\glut.h>
+	<math.h>
+
+1684206759 source:c:\users\aguskkhaer\documents\2.dokumen_kuliah\tugas kuliah\komputer grafik\glut_projects\tugas_uts\apajadeh.cpp
+	<iostream>
+
